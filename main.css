@@ -1,0 +1,132 @@
+.orange{ color:#FF851B}
+body{
+    font-family: 'Roboto', sans-serif;
+    background: #fafafa;
+    overflow-x: hidden;
+    position: relative;}
+
+.title{
+    background-color: #fafafa;
+    line-height: 18px;
+    padding-top: 3px;
+    margin-left: 7vw;
+    /* color: #FF851B; */
+}
+.sidesection{ 
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 240px;
+    margin: 10px;
+    height: 500px; 
+    padding: 8px;
+    padding-right: 9px;
+    padding-top: 12px;
+    border-radius: 8px;
+}
+.mainsection{
+    background-color: white;
+    margin: 10px;
+    width: 50vw;
+    padding: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 8px;
+
+}
+
+.aboutme{
+    background-color: white;
+    padding-left: 3px;
+}
+
+.blurb{
+    background-color: white;
+    overflow-wrap: break-word;
+    margin-right: 20px;
+    margin-left: 20px
+}
+
+.ed{
+    background-color: whitesmoke;
+    padding-top: 3.5px;
+    padding-left: 4px;
+    padding-bottom: 2px;
+}
+.skillssection{
+    background-color: white;
+    width:100%;
+    padding-top: 3.5px;
+    padding-left: 3px;
+}
+.columcontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.certifications{
+    background-color: whitesmoke;
+    display:flex;
+    flex-direction: row;
+    
+}
+
+.cert_outclass{
+    background-color: whitesmoke;
+    padding-top: 3.5px;
+    padding-left: 4px;
+    padding-bottom: 2px;
+
+}
+.container{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.container2{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width:100%;
+
+}
+
+.codeimage{
+    width:55px;
+    height:50px;
+
+}
+
+.toolimage{
+    width:55px;
+    height:50px;
+    
+}
+
+.certimage{
+    width:70px;
+    height:65px;
+    margin-left:40px;
+    margin-right: 20px;
+    margin-top: 35px;
+    
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+    text-decoration: none
+}
+
+a:link {
+    
+    color: #FF851B;
+    
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: #FF851B;
+}
