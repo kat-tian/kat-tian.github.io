@@ -50,6 +50,7 @@ body{
     padding-top: 3.5px;
     padding-left: 4px;
     padding-bottom: 2px;
+    border-radius: 8px;
 }
 .skillssection{
     background-color: white;
@@ -66,6 +67,7 @@ body{
     background-color: whitesmoke;
     display:flex;
     flex-direction: row;
+    border-radius: 8px;
     
 }
 
@@ -74,6 +76,7 @@ body{
     padding-top: 3.5px;
     padding-left: 4px;
     padding-bottom: 2px;
+    border-radius: 8px;
 
 }
 .container{
