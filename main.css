@@ -52,11 +52,22 @@ body{
     padding-bottom: 2px;
     border-radius: 8px;
 }
-.skillssection{
+
+.work{
     background-color: white;
+    padding-top: 3.5px;
+    padding-left: 4px;
+    padding-bottom: 2px;
+    border-radius: 8px;
+}
+
+.skillssection{
+    background-color: whitesmoke;
     width:100%;
     padding-top: 3.5px;
     padding-left: 3px;
+    padding-bottom: 2px;
+    border-radius: 8px;
 }
 .columcontainer{
     display: flex;
@@ -64,7 +75,7 @@ body{
     align-items: center;
 }
 .certifications{
-    background-color: whitesmoke;
+    background-color: white;
     display:flex;
     flex-direction: row;
     border-radius: 8px;
